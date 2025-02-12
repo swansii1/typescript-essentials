@@ -19,3 +19,8 @@
 7. **Work with External Libraries in TypeScript**: [Award](https://learn.microsoft.com/api/achievements/share/ru-ru/swansii1-4977/3RLM34WH?sharingId=6047C96CCF8C53C9)
 
 8. **Organize Code with Namespaces in TypeScript**: [Award](https://learn.microsoft.com/api/achievements/share/ru-ru/swansii1-4977/FVUBZLCX?sharingId=6047C96CCF8C53C9)
+
+## Reflections
+
+Thanks to this mini-course, I was able to get to know TypeScript better, learned what interfaces, namespaces, strong typing, typed functions are, and also used a library called dotenv for the first time.
+This course has given me a TypeScript base!
