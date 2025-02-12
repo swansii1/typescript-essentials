@@ -15,3 +15,7 @@
 5. **Declare and Instantiate Classes in TypeScript**: [Award](https://learn.microsoft.com/api/achievements/share/ru-ru/swansii1-4977/P5Z9RD24?sharingId=6047C96CCF8C53C9)
 
 6. **Generics in TypeScript**: [Award](https://learn.microsoft.com/api/achievements/share/ru-ru/swansii1-4977/9XS27P4U?sharingId=6047C96CCF8C53C9)
+
+7. **Work with External Libraries in TypeScript**: [Award](https://learn.microsoft.com/api/achievements/share/ru-ru/swansii1-4977/3RLM34WH?sharingId=6047C96CCF8C53C9)
+
+8. **Organize Code with Namespaces in TypeScript**: [Award](https://learn.microsoft.com/api/achievements/share/ru-ru/swansii1-4977/FVUBZLCX?sharingId=6047C96CCF8C53C9)
